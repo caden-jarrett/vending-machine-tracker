@@ -26,7 +26,7 @@ Vending machines may be stocked with different snacks, and the same snack may be
 ## User Stories
 
 ```
-User Story 1 of 3
+User Story 1 of 3 X
 
 As a visitor
 When I visit a vending machine show page
